@@ -17,3 +17,6 @@ server.on('request',function(request,response){
 
 
 server.listen(3030);
+
+
+//curl --upload-file /Users/FaisalAbid/Dropbox/General/Presentations/WebUnleashedNodeWorkshop/Files/Part\ 3/upload-progress/filesss.txt  http://localhost:3030
