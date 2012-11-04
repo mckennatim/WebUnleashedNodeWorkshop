@@ -1,0 +1,11 @@
+{
+  "name": "Express Test",
+  "preferGlobal": "true",
+  "version": "0.0.1",
+  "author": "Faisal Abid <faisal.abid@gmail.com>",
+  "description": "Sample app for web unleashed",
+  "dependencies": {
+    "express": "~3.0.1",
+    "request": "~2.11.4"
+  }
+}
