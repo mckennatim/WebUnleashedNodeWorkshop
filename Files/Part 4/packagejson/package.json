@@ -1,0 +1,16 @@
+{
+  "name": "Hello Web",
+  "preferGlobal": "true",
+  "version": "0.0.1",
+  "author": "Faisal Abid <faisal.abid@gmail.com>",
+  "description": "Sample app for web unleashed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaisalAbid/WebUnleashedNodeWorkshop.git"
+  },
+  "dependencies": {
+    "express": "~3.0.0rc5",
+    "hbs": "~1.0.5",
+    "mongoose": "~3.3.1",
+  }
+}
