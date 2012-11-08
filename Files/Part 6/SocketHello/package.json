@@ -1,0 +1,9 @@
+{
+     "name": "SocketChat",
+     "description": "Web Unleashed Example",
+     "version": "0.0.1",
+     "dependencies": {
+        "express": "",
+        "socket.io": ""
+     }
+}
